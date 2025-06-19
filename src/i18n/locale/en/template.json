@@ -1,0 +1,24 @@
+{
+  "invalidType": "Invalid {{type}}",
+  "mustBeAtLeast": "{{type}} must be at least {{count}} {{unit}}",
+  "mustBe": "{{type}} must be {{count}} {{unit}}",
+  "shouldNotBe": "{{type}} should not be {{unit}}",
+  "shouldNotBeGreaterThan": "{{type}} should not greater than {{count}} length",
+  "valueMustBeInBetween": "{{type}} must be between {{start}} and {{end}} {{unit}}",
+  "isRequired": "{{type}} is required",
+  "mustBeAn": "{{type}} must be an integer",
+  "isExists": "{{type}} already exists",
+  "labelIn": "{{label}} ({{type}})",
+  "concatLabel": "{{label}} {{type}}",
+  "asName": "{{type}} Name",
+  "asAadhaarNo": "{{type}} Aadhaar No",
+  "nameOf": "Name of {{type}}",
+  "fetchSuccessForId": "Details Fetched Successfully for {{type}}",
+  "actionBy": "{{action}} by {{person}}",
+  "requestSubmit": "Your Service Request has been submitted to {{type}}",
+  "totalFile": "Total Files {{type}}",
+  "totalFilesCount": "Total {{type}} Files",
+  "resetPhoneNumber": "Reset Phone Number{{punctuation}}",
+  "enterValidInput":"Please enter valid {{input}}"
+ 
+}

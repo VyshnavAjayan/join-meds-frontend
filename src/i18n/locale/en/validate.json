@@ -1,0 +1,7 @@
+{
+    "ERR_BAD_REQUEST": "Something Went Wrong",
+    "ERR_NETWORK":"Network Error",
+    "ALPHABET_ERROR" :"Must contain alphabets. ",
+    "SPECIAL_CHARACTOR_ERROR" :"Special Charactor not allowed.",
+    "OTP_VALIDATION":"OTP should be {{count}} digits"
+}

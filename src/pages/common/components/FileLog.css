@@ -1,0 +1,55 @@
+.timeline-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin: 40px 0;
+  padding: 0px 10px 0px 50px;
+}
+
+.timeline-item {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 30px;
+  position: relative;
+  width: 100%;
+  border-left: 1px solid #e5e5e5;
+}
+
+.time-line-card {
+  margin-bottom: 20px;
+  margin-top: -58px;
+}
+
+.timeline-item:last-child .time-line-card {
+  margin-bottom: 15px;
+}
+
+.timeline-item:last-child {
+  border-left: 0;
+}
+
+.timeline-item:first-child {
+  padding-top: 0px;
+}
+
+.timeline-item:nth-child(odd) {
+  align-self: flex-start;
+  justify-content: flex-start;
+  padding-left: 70px;
+  padding-right: 0;
+}
+
+.timeline-item:nth-child(even) {
+  align-self: flex-start;
+  justify-content: flex-start;
+  padding-left: 70px;
+  padding-right: 0;
+}
+
+.log-circle {
+  left: -55px;
+  z-index: 1;
+  top: calc(50% - 66px);
+  height: 78px;
+  width: 111px;
+}

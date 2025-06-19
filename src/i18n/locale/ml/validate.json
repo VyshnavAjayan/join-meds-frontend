@@ -1,0 +1,7 @@
+{
+    "ERR_BAD_REQUEST": "എന്തോ കുഴപ്പം സംഭവിച്ചു",
+    "ERR_NETWORK": "നെറ്റ്‌വർക്ക് പിശക്",
+    "ALPHABET_ERROR": "അക്ഷരമാലകൾ അടങ്ങിയിരിക്കണം.",
+    "SPECIAL_CHARACTOR_ERROR": "പ്രത്യേക ക്യാരക്ടര് അനുവദനീയമല്ല.",
+    "OTP_VALIDATION": "OTP {{count}} അക്കങ്ങൾ ആയിരിക്കണം"
+}

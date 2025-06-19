@@ -1,0 +1,23 @@
+{
+    "invalidType": "അസാധുവായ {{type}}",
+    "mustBeAtLeast": "{{type}} കുറഞ്ഞത് {{count}} {{unit}} ആയിരിക്കണം",
+    "mustBe": "{{type}} {{count}} {{unit}} ആയിരിക്കണം",
+    "shouldNotBe": "{{type}} {{unit}} ആയിരിക്കരുത്",
+    "shouldNotBeGreaterThan": "{{type}} നീളം {{count}}-ൽ കൂടരുത്",
+    "valueMustBeInBetween": "{{type}} {{start}} നും {{end}} {{unit}} നും ഇടയിലായിരിക്കണം",
+    "isRequired": "{{type}} ആവശ്യമാണ്",
+    "mustBeAn": "{{type}} ഒരു പൂർണ്ണസംഖ്യയായിരിക്കണം",
+    "isExists": "{{type}} ഇതിനകം നിലവിലുണ്ട്",
+    "labelIn": "{{label}} ({{type}})",
+    "concatLabel": "{{label}} {{type}}",
+    "asName": "{{type}} പേര്",
+    "asAadhaarNo": "{{type}} ആധാർ നമ്പർ",
+    "nameOf": "{{type}} എന്നതിൻ്റെ പേര്",
+    "fetchSuccessForId": "{{type}} എന്നതിനായുള്ള വിശദാംശങ്ങൾ വിജയകരമായി ലഭ്യമാക്കി",
+    "actionBy": "{{person}} മുഖേന {{action}}",
+    "requestSubmit": "നിങ്ങളുടെ സേവന അഭ്യർത്ഥന {{type}} എന്നതിലേക്ക് സമർപ്പിച്ചു",
+    "totalFile": "ആകെ ഫയലുകൾ {{type}}",
+    "totalFilesCount": "ആകെ {{type}} ഫയലുകൾ",
+    "resetPhoneNumber": "ഫോൺ നമ്പർ പുനഃസജ്ജമാക്കുക{{punctuation}}",
+    "enterValidInput": "ദയവായി സാധുവായ {{input}} നൽകുക"
+}
